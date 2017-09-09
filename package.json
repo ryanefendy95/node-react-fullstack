@@ -14,7 +14,7 @@
     "npm": "5.4.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "startcd ": "node index.js"
   },
   "repository": {
     "type": "git",
